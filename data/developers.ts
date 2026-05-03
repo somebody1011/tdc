@@ -46,6 +46,12 @@ export const developers: Developer[] = [
     github: "deogemini",
   },
   {
+    name: "Elisha Gerson",
+    twitter: "",
+    portfolio: "https://somebody1011.github.io/",
+    github: "somebody1011",
+  },
+  {
     name: "Fadhluilahi Mohammed",
     twitter: "",
     portfolio: "https://megamindame.com",
@@ -132,12 +138,6 @@ export const developers: Developer[] = [
     twitter: "namestarlit",
     portfolio: "https://namestarlit.com",
     github: "namestarlit",
-  },
-  {
-    name: "Elisha Gerson",
-    twitter: "",
-    portfolio: "https://somebody1011.github.io/",
-    github: "somebody1011",
   },
 ];
 
