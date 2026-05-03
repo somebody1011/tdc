@@ -133,6 +133,12 @@ export const developers: Developer[] = [
     portfolio: "https://namestarlit.com",
     github: "namestarlit",
   },
+  {
+    name: "Elisha Gerson",
+    twitter: "",
+    portfolio: "https://somebody1011.github.io/",
+    github: "somebody1011",
+  },
 ];
 
 // simple placeholders : )
